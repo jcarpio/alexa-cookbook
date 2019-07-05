@@ -23,7 +23,7 @@
             "eTag": "df9537232dc2479ab1396fe51c3b36a5"
           },
           "es-ES": {
-            "eTag": "b2a0d345cee5800dbaad082b3524d342"
+            "eTag": "13a813917cb5e5bf6e052aa5eb847609"
           }
         },
         "lambda": [
@@ -36,7 +36,7 @@
             "codeUri": "lambda/custom",
             "functionName": "ask-custom-device-location-default",
             "handler": "index.handler",
-            "revisionId": "14bb772a-28b3-4152-be97-bb73299c1ec9",
+            "revisionId": "2f3036f5-f67f-4a46-b90d-303ca706a8fc",
             "runtime": "nodejs8.10"
           }
         ]

@@ -2,12 +2,12 @@
   "manifest": {
     "publishingInformation": {
       "locales": {
-        "en-US": {
+        "es-ES": {
           "summary": "A demo skill to show how the Reminders API works.",
           "examplePhrases": [
-            "Alexa open reminders demo"
+            "Alexa abre demo recordatorios"
           ],
-          "name": "Reminders Demo",
+          "name": "demo recordatorios",
           "description": "Create a demo skill to access your reminders."
         }
       },
