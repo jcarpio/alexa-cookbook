@@ -2,7 +2,7 @@
   "manifest": {
     "publishingInformation": {
       "locales": {
-        "en-US": {
+        "es-ES": {
           "summary": "A demo skill to show how the Device Address API works.",
           "examplePhrases": [
             "Alexa open device address demo",
