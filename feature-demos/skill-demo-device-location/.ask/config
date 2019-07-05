@@ -16,11 +16,14 @@
       },
       "resources": {
         "manifest": {
-          "eTag": "9d32dd5ba8e3fa8363a14005cbe5807f"
+          "eTag": "218f599ed29311502c5a6b368ff1d451"
         },
         "interactionModel": {
           "en-US": {
             "eTag": "df9537232dc2479ab1396fe51c3b36a5"
+          },
+          "es-ES": {
+            "eTag": "b2a0d345cee5800dbaad082b3524d342"
           }
         },
         "lambda": [
@@ -33,7 +36,7 @@
             "codeUri": "lambda/custom",
             "functionName": "ask-custom-device-location-default",
             "handler": "index.handler",
-            "revisionId": "69ce0db9-4fef-4d47-b998-ae9c1e9fb75f",
+            "revisionId": "14bb772a-28b3-4152-be97-bb73299c1ec9",
             "runtime": "nodejs8.10"
           }
         ]
